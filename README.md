@@ -1,2 +1,0 @@
-# CICDDEVIOS
-CI cd iOS
